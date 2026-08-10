@@ -67,6 +67,6 @@ Isami Innovations 合同会社は、ソフトウェア技術を通じて価値�
 
 事業内容や協業のご相談などにつきましては、以下よりお気軽にお問い合わせください。
 
-- myaduser@normalian.xyz
+- admin@isamiinnovations.com
 
 ---
