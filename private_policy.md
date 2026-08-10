@@ -76,7 +76,7 @@ We do not sell your personal information. We may share your information only in 
 | Subscription and account data | Duration of subscription + 90 days after cancellation |
 | Usage logs | Up to 12 months |
 
-Upon subscription termination, you may request deletion of your personal data by contacting us at [privacy@isamiinnovations.com](mailto:privacy@isamiinnovations.com).
+Upon subscription termination, you may request deletion of your personal data by contacting us at [privacy@isamiinnovations.com](mailto:admin@isamiinnovations.com).
 
 ---
 
@@ -102,7 +102,7 @@ Depending on your jurisdiction, you may have the following rights:
 - **Portability** — Request transfer of your data to another provider
 - **Objection** — Object to processing for certain purposes
 
-To exercise any of these rights, contact us at [privacy@isamiinnovations.com](mailto:privacy@isamiinnovations.com).
+To exercise any of these rights, contact us at [admin@isamiinnovations.com](mailto:admin@isamiinnovations.com).
 
 ---
 
@@ -135,9 +135,8 @@ We may update this Privacy Policy from time to time. Material changes will be co
 | | |
 |---|---|
 | **Company** | ISAMI INNOVATIONS CO., LTD. |
-| **Privacy inquiries** | [privacy@isamiinnovations.com](mailto:privacy@isamiinnovations.com) |
-| **General support** | [support@isamiinnovations.com](mailto:support@isamiinnovations.com) |
-| **Website** | [https://isamiinnovations.com](https://isamiinnovations.com) |
+| **Privacy inquiries** | [admin@isamiinnovations.com](mailto:admin@isamiinnovations.com) |
+| **General support** | [admin@isamiinnovations.com](mailto:admin@isamiinnovations.com) |
 
 ---
 
