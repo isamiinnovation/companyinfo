@@ -1,64 +1,77 @@
-# Support — Azure Cost Optimizer
+```markdown
+# Support Policy — ISAMI INNOVATIONS Services
 
 **Publisher:** ISAMI INNOVATIONS CO., LTD.  
-**Service:** Azure Cost Optimizer (Microsoft Azure Marketplace)
+**Services:** Microsoft Marketplace applications, Azure Cost Optimizer and agents published by ISAMI INNOVATIONS
 
 ---
 
 ## Contact Support
 
-### 📧 Email Support
-
-For any issues, questions, or feedback, please contact us by email. Include your Azure Subscription ID and Tenant ID to help us resolve your request quickly.
+For questions, technical issues, feedback, or feature requests related to our applications and agents, please contact us by email.
 
 **Support email:** [admin@isamiinnovations.com](mailto:admin@isamiinnovations.com)
+
+When contacting support, please include the application or agent name and relevant environment details.
 
 ---
 
 ## Response Time & SLA
 
-Our support team operates **Monday – Friday, JST (UTC+9)**, excluding Japanese public holidays.
+Our support team operates **Monday–Friday, JST (UTC+9)**, excluding Japanese public holidays.
 
 | Priority | Description | Initial Response | Resolution Target |
-|---|---|---|---|
-| **High** | Service completely unavailable; no workaround | 4 business hours | 2 business days |
-| **Medium** | Core feature impaired; workaround available | 1 business day | 5 business days |
-| **Low** | General questions, feature requests, docs | 2 business days | Best effort |
+|---|---|---:|---:|
+| **High** | Service is completely unavailable and no workaround exists | 4 business hours | 2 business days |
+| **Medium** | A core feature is impaired, but a workaround is available | 1 business day | 5 business days |
+| **Low** | General questions, documentation, feedback, or feature requests | 2 business days | Best effort |
+
+Response and resolution targets are provided as guidelines and are not contractual service-level guarantees unless otherwise specified in the applicable service agreement.
 
 ---
 
 ## What to Include in Your Support Request
 
-Please provide the following to help us resolve your issue faster:
+Please provide the following information where applicable:
 
-- **Azure Subscription ID** — found in Azure Portal → Subscriptions
-- **Tenant ID** — found in Microsoft Entra ID → Overview
-- **Marketplace Subscription ID** — found in your Azure Cost Optimizer dashboard
-- **Description of the issue** — steps to reproduce, expected behavior, actual behavior
-- **ARM template (if applicable)** — remove any secrets or credentials before attaching
-- **Screenshots or error messages** — any relevant error text or browser console output
+- **Application or agent name**
+- **Azure Subscription ID**
+- **Microsoft Entra Tenant ID**
+- **Marketplace subscription or purchase information**
+- **Description of the issue**
+- **Steps to reproduce the problem**
+- **Expected behavior and actual behavior**
+- **Timestamp and time zone when the issue occurred**
+- **Relevant screenshots or error messages**
+- **Application logs or diagnostic information**, with secrets and credentials removed
+- **Service or deployment details**, such as Azure resource names or regions
+
+Never include passwords, access tokens, client secrets, API keys, or other confidential credentials in a support request.
 
 ---
 
 ## Frequently Asked Questions
 
-**How do I export an ARM template from a resource group?**  
-In the Azure Portal, navigate to your Resource Group → Overview → Export template. Download the JSON file and upload it to Azure Cost Optimizer.
+**Which products and services are covered by this policy?**  
+This policy applies to Microsoft Marketplace applications, agents, and related services published by ISAMI INNOVATIONS CO., LTD., unless a product-specific support policy states otherwise.
 
-**Is my ARM template data stored on your servers?**  
-No. ARM template data is processed transiently during analysis and deleted immediately after your session completes. We do not store your resource data unless you explicitly save a report.
+**Can I ask questions about the agent's answers or behavior?**  
+Yes. Please include the question or scenario, the response you received, and any relevant context. Do not include confidential or personal information unless it is necessary and permitted.
 
-**Which Azure regions are supported?**  
-All public Azure regions are supported. Cost data is retrieved using the Azure Retail Prices API, which covers all generally available regions.
+**What permissions are required?**  
+Required permissions vary by application and scenario. Please refer to the application's documentation and consent prompts. Support cannot grant permissions or bypass Microsoft, Azure, or tenant administrator policies.
 
-**How do I cancel my subscription?**  
-Subscriptions can be cancelled at any time through the Microsoft Azure Marketplace portal: Marketplace → SaaS → your subscription → Cancel subscription.
+**What should I do if the application cannot connect to Azure or Microsoft 365?**  
+Confirm that the relevant service is available, the application has the required permissions, and your organization's administrator has approved the application. Include the exact error message and timestamp when contacting support.
 
-**Can I analyze multiple resource groups at once?**  
-The current release supports single resource group analysis per session. Multi-resource group reporting is planned for a future release.
+**How are my data and submitted information handled?**  
+Data handling depends on the specific application and service configuration. Please review the applicable privacy policy and product documentation. Do not submit secrets or unnecessary personal information in support requests.
 
-**What Azure roles are required?**  
-To export ARM templates, you need Reader access (or higher) on the target resource group. No additional Azure permissions are required by the service itself.
+**How do I request a feature or provide feedback?**  
+Send your request to the support email. Include the use case, expected benefit, and any relevant technical requirements.
+
+**How do I cancel a Marketplace subscription?**  
+Subscription management and cancellation are handled through the Microsoft Azure Marketplace or the purchasing organization, depending on the offer type. Refer to the subscription's Marketplace management page for available options.
 
 ---
 
@@ -67,10 +80,11 @@ To export ARM templates, you need Reader access (or higher) on the target resour
 | | |
 |---|---|
 | **Company** | ISAMI INNOVATIONS CO., LTD. |
-| **Support email** | [support@isamiinnovations.com](mailto:admin@isamiinnovations.com) |
-| **Privacy inquiries** | [privacy@isamiinnovations.com](mailto:admin@isamiinnovations.com) |
+| **Support email** | [admin@isamiinnovations.com](mailto:admin@isamiinnovations.com) |
+| **Privacy inquiries** | [admin@isamiinnovations.com](mailto:admin@isamiinnovations.com) |
 | **Privacy Policy** | [View Privacy Policy](./privacy_policy.md) |
 
 ---
 
 *&copy; 2026 ISAMI INNOVATIONS CO., LTD.*
+```
