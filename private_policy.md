@@ -172,8 +172,8 @@ Your continued use of a service after the updated policy becomes effective const
 | | |
 |---|---|
 | **Company** | ISAMI INNOVATIONS CO., LTD. |
-| **Privacy inquiries** | [admin@isamiinnovations.com](mailto:admin@isamiinnovations.com) |
-| **General support** | [admin@isamiinnovations.com](mailto:admin@isamiinnovations.com) |
+| **Privacy inquiries** | [privacy@isamiinnovations.com](mailto:privacy@isamiinnovations.com) |
+| **General support** | [support@isamiinnovations.com](mailto:support@isamiinnovations.com) |
 
 ---
 
