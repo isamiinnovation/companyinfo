@@ -10,7 +10,7 @@
 
 For questions, technical issues, feedback, or feature requests related to our applications and agents, please contact us by email.
 
-**Support email:** [admin@isamiinnovations.com](mailto:admin@isamiinnovations.com)
+**Support email:** [support@isamiinnovations.com](mailto:support@isamiinnovations.com)
 
 When contacting support, please include the application or agent name and relevant environment details.
 
@@ -80,8 +80,8 @@ Subscription management and cancellation are handled through the Microsoft Azure
 | | |
 |---|---|
 | **Company** | ISAMI INNOVATIONS CO., LTD. |
-| **Support email** | [admin@isamiinnovations.com](mailto:admin@isamiinnovations.com) |
-| **Privacy inquiries** | [admin@isamiinnovations.com](mailto:admin@isamiinnovations.com) |
+| **Support email** | [support@isamiinnovations.com](mailto:support@isamiinnovations.com) |
+| **Privacy inquiries** | [privacy@isamiinnovations.com](mailto:privacy@isamiinnovations.com) |
 | **Privacy Policy** | [View Privacy Policy](./privacy_policy.md) |
 
 ---
